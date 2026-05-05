@@ -1,9 +1,9 @@
-# 📚 GUÍA MAESTRA DE ESTUDIO — EXAMEN ANUAL
-## Módulos 2 al 7 | Full Stack Python Django
+# 📚 GUÍA MAESTRA DE ESTUDIO  
+Full Stack Python Django
 
 ---
 
-# MÓDULO 2: Fundamentos de Desarrollo Front-End
+# MÓDULO 1: Fundamentos de Desarrollo Front-End
 
 ## 🌐 Arquitectura Web
 - **Internet**: red global de computadoras interconectadas
@@ -424,7 +424,7 @@ async def mi_tarea():
     await asyncio.sleep(1)
     print("Tarea lista")
 ```
-# MÓDULO 4: Programación Orientada a Objetos (POO)
+# MÓDULO 3: Programación Orientada a Objetos (POO)
 
 ## Conceptos Fundamentales
 
@@ -783,7 +783,7 @@ ROLLBACK;
 -- Modo autocommit (por defecto ON en MySQL)
 SET autocommit = 0;  -- desactivar para control manual
 ```
-# MÓDULO 6 y 7: Django Web Framework
+# MÓDULO 5 y 6: Django Web Framework
 
 ## ¿Qué es Django?
 Framework web Python de alto nivel. Filosofía **"batteries included"** (todo incluido).
